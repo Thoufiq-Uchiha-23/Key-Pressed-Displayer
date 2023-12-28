@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'New Walt Disney Font';
+    src: url('subset-NewWaltDisneyFont.woff2') format('woff2'),
+        url('subset-NewWaltDisneyFont.woff') format('woff'),
+        url('subset-NewWaltDisneyFont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'New Walt Disney UI';
+    src: url('subset-NewWaltDisneyUI.woff2') format('woff2'),
+        url('subset-NewWaltDisneyUI.woff') format('woff'),
+        url('subset-NewWaltDisneyUI.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
